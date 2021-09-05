@@ -1,0 +1,13 @@
+#Database
+*.sqlite3
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store 
+SECRET_KEY
+
+# Text backup files
+*.bak
